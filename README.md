@@ -1,7 +1,7 @@
 ![WebDevelopmentImage](https://user-images.githubusercontent.com/89254074/204705965-550ea91c-af6e-44ba-a545-6baa64485b89.jpeg)
 
-<h1 align="center">Hi 👋, I'm Zana Suleiman</h1>
-<h3 align="center">A passionate Full-Stack-Developer from Syria</h3>
+<h1 align="center">Hi 👋<br /><br /> I'm Zana Suleiman</h1>
+<h3 align="center">A passionate Full-Stack-Developer from Syria</h3><br /> <br />
 
 - 🔭 I’m currently working on [React.js-Dashboard](https://thunderboltforever.github.io/React.js-Dashboard/)
 
