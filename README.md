@@ -19,4 +19,5 @@
 
 <h2>CV:</h2>
 
-[Zana Suleiman CV .pdf](https://github.com/ThunderboltForEver/ThunderboltForEver/files/11425803/Zana.Suleiman.CV.pdf)
+[ZanaAnwarSuleimanResume .pdf](https://github.com/ThunderboltForEver/ThunderboltForEver/files/14046545/ZanaAnwarSuleimanResume.pdf)
+
